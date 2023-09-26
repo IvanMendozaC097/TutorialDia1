@@ -7,12 +7,9 @@ public class HolaMundo {
 		System.out.println("Hola caracola!");
 		
 		System.out.println("Bienvenido!");
-		
-		System.out.println("Bienvenido al curso!");
-		
-		System.out.println("YEsulito 13");
-		
+
 		System.out.println("Pepe");
+
 
 	}
 
